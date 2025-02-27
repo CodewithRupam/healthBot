@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2025-02-27 07:25:41.884469",
+        "symptoms": [
+            ""
+        ],
+        "medicine": "Medicine:\nNo specific medicine found",
+        "remedies": "Home Remedies:\nTry consulting a doctor for better advice",
+        "severity": "Severity Level: Unknown"
+    },
+    {
+        "date": "2025-02-27 07:26:19.927796",
+        "symptoms": [
+            "fever",
+            "cough"
+        ],
+        "medicine": "Medicine:\nLozenges\nAspirin\nParacetamol\nIbuprofen\nCough Syrup\nAntihistamines",
+        "remedies": "Home Remedies:\nStay hydrated, Cold compress, Gargle with salt water, Steam inhalation, Honey and lemon tea, Rest well",
+        "severity": "Severity Level: Mild, Moderate"
+    },
+    {
+        "date": "2025-02-27 07:26:47.282866",
+        "symptoms": [
+            "fever",
+            "cough"
+        ],
+        "medicine": "Medicine:\nIbuprofen, Paracetamol, Lozenges, Cough Syrup, Aspirin, Antihistamines",
+        "remedies": "Home Remedies:\nStay hydrated, Steam inhalation, Honey and lemon tea, Rest well, Gargle with salt water, Cold compress",
+        "severity": "Severity Level: Moderate, Mild"
+    },
+    {
+        "date": "2025-02-27 07:29:46.018353",
+        "symptoms": [
+            "fever",
+            "sore throat",
+            "cough"
+        ],
+        "medicine": "Medicine:\nParacetamol, Lozenges, Ibuprofen, Aspirin, Cough Syrup, Antihistamines",
+        "remedies": "Home Remedies:\nStay hydrated, Honey and lemon tea, Rest well, Gargle with salt water, Cold compress, Steam inhalation",
+        "severity": "Severity Level: Moderate, Mild"
+    },
+    {
+        "date": "2025-02-27 07:33:00.586841",
+        "symptoms": [
+            ""
+        ],
+        "medicine": "Medicine:\nNo specific medicine found",
+        "remedies": "Home Remedies:\nTry consulting a doctor for better advice",
+        "severity": "Severity Level: Unknown"
+    }
+]
